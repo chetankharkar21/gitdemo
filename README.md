@@ -1,2 +1,2 @@
 # gitdemo
-Author Chetan Kharkar
+Author Chetan Dnyaneshwar Kharkar
